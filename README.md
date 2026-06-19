@@ -3,10 +3,6 @@
 <h1 align="center">🤖 Machine Learning — Fall 2025</h1>
 <h3 align="center">Programming Homework Assignments | Sharif University of Technology</h3>
 
-<p align="center">
-  <i>"From classical algorithms to deep learning—mastering the foundations of modern machine learning."</i>
-</p>
-
 [**GitHub**](https://github.com/javdaninasim/ML_PHW_Fall_2025) &nbsp; ⬩ &nbsp; [**University**](https://sharif.edu/)
 
 </div>
