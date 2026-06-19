@@ -304,7 +304,7 @@ Simply open any `.ipynb` file in Jupyter to start learning!
 
 ---
 
-### 📞 Course Information
+### ℹ️ Course Information
 
 | Detail | Information |
 | :--- | :--- |
@@ -315,21 +315,6 @@ Simply open any `.ipynb` file in Jupyter to start learning!
 | **Format** | Interactive Jupyter Notebooks |
 | **Prerequisites** | Linear Algebra, Calculus, Statistics, Python |
 | **Languages** | Python, Jupyter Notebook |
-
----
-
-### 📜 License & Attribution
-
-This repository contains course assignments from **Sharif University of Technology**.  
-All implementations are the original work of the repository author.
-
-**Author:** Nasim Javdani  
-**Student Number:** 402170013  
-**GitHub:** [@javdaninasim](https://github.com/javdaninasim)  
-**LinkedIn:** [Nasim Javdani](https://linkedin.com/in/nasim-javdani-810a9932a)
-
-**Contributors:**
-- Assignment Preparation: Aysan Rahimi, Fatemeh Khojasteh, Alireza Mirshafieian
 
 ---
 
