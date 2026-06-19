@@ -315,9 +315,6 @@ Simply open any `.ipynb` file in Jupyter to start learning!
 | **Format** | Interactive Jupyter Notebooks |
 | **Prerequisites** | Linear Algebra, Calculus, Statistics, Python |
 | **Languages** | Python, Jupyter Notebook |
-
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=100&section=footer" width="100%"/>
 </div>
