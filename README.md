@@ -241,40 +241,6 @@ ML_PHW_Fall_2025/
 
 ---
 
-### 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/javdaninasim/ML_PHW_Fall_2025.git
-cd ML_PHW_Fall_2025
-
-# 2. Create virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install numpy pandas scikit-learn torch matplotlib seaborn jupyter pillow
-
-# 4. Launch Jupyter and explore assignments
-jupyter notebook
-```
-
----
-
-### 📖 How to Use This Repository
-
-Each folder contains interactive **Jupyter Notebooks** with:
-
-- 📝 **Problem Statements** – Clear problem definitions and objectives
-- 🔧 **Code Templates** – Partially completed implementations with TODO comments
-- 📊 **Visualizations** – Plots, graphs, and visual analysis
-- 💡 **Insights** – Interpretations and key takeaways
-- 📚 **References** – Links to papers and external resources
-
-Simply open any `.ipynb` file in Jupyter to start learning!
-
----
-
 ### 💡 Key Learnings
 
 | Algorithm | Application | Status |
